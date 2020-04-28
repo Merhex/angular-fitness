@@ -1,0 +1,20 @@
+mat-card {
+    margin: 1rem 2rem;
+    background-color: rgb(238, 238, 238);
+}
+
+.progress-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-grow: 0;
+}
+
+.mat-spinner {
+    margin: 1rem;
+}
+
+.mat-card-footer {
+    text-align: center;
+}
